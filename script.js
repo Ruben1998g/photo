@@ -20072,7 +20072,7 @@ __webpack_require__.r(__webpack_exports__);
 document.addEventListener('DOMContentLoaded', function () {
   Object(_moduls_modals__WEBPACK_IMPORTED_MODULE_0__["default"])();
   Object(_moduls_sliders__WEBPACK_IMPORTED_MODULE_1__["default"])('.feedback-slider-item', 'horizontal', '.main-prev-btn', '.main-next-btn');
-  Object(_moduls_sliders__WEBPACK_IMPORTED_MODULE_1__["default"])('.main-slider-item', 'vertical');
+  //Object(_moduls_sliders__WEBPACK_IMPORTED_MODULE_1__["default"])('.main-slider-item', 'vertical');
   Object(_moduls_forms__WEBPACK_IMPORTED_MODULE_2__["default"])();
   Object(_moduls_mask__WEBPACK_IMPORTED_MODULE_3__["default"])('[name="phone"]');
   Object(_moduls_checkTextInput__WEBPACK_IMPORTED_MODULE_4__["default"])('[name="name"]');

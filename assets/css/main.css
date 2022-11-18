@@ -1752,3 +1752,10 @@ cursor: pointer;
 border: 1px solid white;
   transition: 1s all;
 }
+
+
+@media(max-width: 992px){
+  .main-slider-item img{
+      width: 100%;
+  }
+}
